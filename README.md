@@ -26,7 +26,7 @@
 -->
 
 ### My mission
-I thrive on optimizing processes and solving real-world challenges through data-driven decision-making. With a background in functional consulting and data analytics, I specialize in streamlining workflows, enhancing efficiency, and driving impactful business transformations. Passionate about bridging technology and business, I aim to create solutions that are not just efficient but also human-centric and sustainable.
+My mission is to architect and optimize solutions at the intersection of technology and business. Leveraging my expertise in the full SDLC, Agile methodologies, and deep data analysis (SQL, Predictive Modeling), I specialize in translating complex functional requirements into clear, measurable value. I drive business transformation by implementing data-backed solutions—from streamlining internal efficiency by up to 40% to defining the Minimum Viable Product (MVP) for AI-driven features. I am focused on building solutions that are not just efficient, but strategic, human-centric, and proven by the data.
 
 <!--
      This is the list of my skills and tools I am studying!
@@ -50,7 +50,7 @@ I thrive on optimizing processes and solving real-world challenges through data-
 
 
 
-📦 **[Dot Foods Sustainability Analysis](https://github.com/YOUR_PROJECT_LINK)**  
+📦 **[Dot Foods Sustainability Analysis](https://github.com/MrinaliDole/Dot-Foods-EV-Transition-Delivery-Analytics)**  
 🔹 Collaborated with Dot Foods to assess the business impact of sustainable technology adoption.  
 🔹 Conducted data analysis to evaluate potential cost savings and operational improvements.  
 🔹 Created visualizations and reports to present actionable insights for corporate sustainability initiatives.  
