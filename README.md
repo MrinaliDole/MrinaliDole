@@ -48,15 +48,7 @@ I thrive on optimizing processes and solving real-world challenges through data-
 
 ### Projects
 
-🚀 **[Smart Farming System](https://github.com/YOUR_PROJECT_LINK)**  
-🔹 Developed a low-cost drone-integrated farming system, increasing agricultural yield and crop quality by 30%.  
-🔹 Built a website to predict crops and soil quality based on geographical and seasonal factors.  
-🔹 Secured a sponsorship of 200,000 INR and achieved Top 50 recognition nationwide in the Texas Instruments IICDC competition.  
 
-📊 **[Heart Disease Prediction Model](https://github.com/YOUR_PROJECT_LINK)**  
-🔹 Developed a machine learning model to predict heart disease risk using clinical datasets.  
-🔹 Utilized logistic regression and decision trees to improve prediction accuracy.  
-🔹 Preprocessed and analyzed healthcare data for feature selection and optimization.  
 
 📦 **[Dot Foods Sustainability Analysis](https://github.com/YOUR_PROJECT_LINK)**  
 🔹 Collaborated with Dot Foods to assess the business impact of sustainable technology adoption.  
@@ -70,7 +62,7 @@ I thrive on optimizing processes and solving real-world challenges through data-
 ### Personal Interests
 🏊‍♀️ Swimming | 💃 Dancing | 🍳 Cooking | 🎉 Hosting friends  
 🤝 Volunteering for kids & underprivileged communities  
-🌱 Passionate about agricultural research and integration of sustainable smart farming practices  
+🌱 Passionate about product vision and strategy management  
 
 <!--
      Fast links to my socials!
@@ -92,7 +84,7 @@ I thrive on optimizing processes and solving real-world challenges through data-
 
 ### Employer?
 > [!IMPORTANT]  
-> <a href="https://drive.google.com/file/d/1amh15UNKCvID5DHc0VojPNigNez44qSa/view?usp=drive_link" download>Download my resume</a>
+> <a href="https://drive.google.com/file/d/1n5KPv8TEd74ackMfTvRLm0rPX9lyQ4-X/view?usp=sharing" download>Download my resume</a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
 
