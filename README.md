@@ -8,10 +8,11 @@
     You may also want to connect with me on LinkedIn :))
 -->
 
+<div align="center">
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=520&lines=Hey%2C+I'm+Mrinali+Dole!;Transforming+Insight+into+Impactful+Products"/>
+      <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=700&size=34&duration=4000&pause=1000&color=D9BED1&center=true&vCenter=true&width=650&lines=Mrinali+Dole;Transforming+Insight+into+Impactful+Products" alt="Mrinali Dole | Product Analyst">
 </a>
-
+</div>
 
 <!--
     Your own Terminal GIF can be created here -> https://www.terminalgif.com
@@ -134,4 +135,5 @@ Certified CSPO (Scrum Alliance) with expertise in SQL, Python, Power BI, AWS, an
      Oh, hello there, recruiters!
 -->
 </div>
+
 
