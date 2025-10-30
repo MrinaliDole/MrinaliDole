@@ -28,7 +28,7 @@
 
 ### About Me
 
-Product Analyst with 4+ years of experience turning user insights, metrics, and product feedback into scalable products and feature improvements. Completed my M.S. in Business Analytics (UIUC, May 2025).
+Product Analyst with 4+ years of experience turning user insights, metrics, and product feedback into scalable products and feature improvements in Saas Enterprise Delivery domain. Completed my M.S. in Business Analytics (UIUC, May 2025).
 
 Skilled in roadmap prioritization, feature launch, experimentation & optimization. Strong in SQL, Python, Power BI, AWS; certified CSPO & Icertis Practitioner.
 
